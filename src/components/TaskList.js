@@ -62,7 +62,7 @@ TaskList.propTypes = {
     /** Event to change the task to pinned */
     onPinTask: PropTypes.func,
     /** Event to change the task to archived */
-    onArchiveTask: PropTypes.func,   
+    onArchiveTask: PropTypes.func,
 }
 
 TaskList.defaultProps = {
